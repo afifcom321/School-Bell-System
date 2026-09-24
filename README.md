@@ -289,8 +289,9 @@ restore dari backup terbaru setelahnya jika ada (menu System).
 
 ## 📄 Lisensi
 
-Silakan sesuaikan berkas `LICENSE` dengan kebutuhan Anda (mis. MIT) sebelum
-mempublikasikan repo ini.
+Proyek ini dilisensikan di bawah [MIT License](LICENSE) — bebas dipakai, diubah, dan
+didistribusikan ulang, termasuk untuk keperluan komersial, selama menyertakan notice
+lisensi aslinya. Ganti
 
 ---
 
