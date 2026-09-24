@@ -291,7 +291,7 @@ restore dari backup terbaru setelahnya jika ada (menu System).
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE) — bebas dipakai, diubah, dan
 didistribusikan ulang, termasuk untuk keperluan komersial, selama menyertakan notice
-lisensi aslinya. Ganti
+lisensi aslinya. 
 
 ---
 
