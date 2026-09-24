@@ -299,8 +299,9 @@ schedules, so restore from the latest backup afterward if one exists (System pag
 
 ## 📄 License
 
-Please adapt the `LICENSE` file to your needs (e.g. MIT) before publishing this
-repository.
+This project is licensed under the [MIT License](LICENSE) — free to use, modify, and
+redistribute, including for commercial purposes, as long as the original license notice
+is included. 
 
 ---
 
